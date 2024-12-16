@@ -4,6 +4,7 @@
 <li>User can add films, cast, budget and be membership. Also user can write command for films, cast so on.</li>
 </ul><ul>
 <li>User can reach film data set quickly with good interface</li>
+![Logo](https://media.licdn.com/dms/image/v2/D4D22AQFSgFNdgt8Tog/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732476178519?e=1736985600&v=beta&t=ppPP3pSFJflU6xLtELl_uBopnooBGu9SFz3D7kFwpYo)
 </ul><h2>Technologies Used</h2>
 <hr><ul>
 <li>HTML</li>
