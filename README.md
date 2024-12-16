@@ -1,5 +1,9 @@
 <h1>Movies</h1>
-<hr><p>Website for listing movies like IMDB</p><h2>General Information</h2>
+<hr><p>Website for listing movies like IMDB</p>
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/HssjXf3f/Ekran-kli-2024-11-24-142025.png"  />
+</div>
+<h2>General Information</h2>
 <hr><ul>
 <li>User can add films, cast, budget and be membership. Also user can write command for films, cast so on.</li>
 </ul><ul>
